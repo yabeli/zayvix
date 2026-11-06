@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Panamericana TV ",
+    "categoría":"nacional",
+    "imagen":"https://i.imgur.com/uQhEDES.png",
+    "url":"http://45.171.108.253:8888/PANAMERICANA/index.m3u8"
+   },
+ {
+    "id": 2,
+    "nombre": "Latina Clásicos ",
+    "categoría": "nacional",
+    "imagen":"https://i.imgur.com/q0dAWyj.png",
+    "url":"http://45.171.108.253:8888/LATINA/index.m3u8"
+   },
+  {
+ "id": 3,
+    "nombre":"ATV (Peru)",
+    "categoría":"nacional",
+    "imagen":"https://i.imgur.com/eUzYZfg.png",
+    "url":"http://190.93.224.42/ATV/index.m3u8"
+   },
+   {
+ "id": 4,
+    "nombre": "TV Peru",
+    "categoría":"nacional",
+    "imagen":"https://i.imgur.com/6io0IrX.png",
+    "url":"http://190.93.224.42/TV-PERU/index.m3u8"
+   },
+ {
+ "id": 5,
+    "nombre": "Top Latino TV",
+    "categoria":"nacional",
+    "imagen":"https://i.imgur.com/VRl8nPZ.png" ,
+    "url":"http://38.87.224.20:2220/play/a02b/index.m3u8"
+   },
+ {
+ "id": 6,
+    "nombre": "El Chavo TV",
+    "categoria":"nacional",
+    "imagen":"https://gia.tv/streams/pptv/211465.png",
+    "url":"https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
+   },
+ {
+ "id": 7,
+    "nombre": "ABTelevision ",
+    "categoria":"nacional",
+    "imagen":"https://i.imgur.com/tqMDscD.png",
+    "url":"https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8"
+   },
+ {
+ "id": 8,
+    "nombre": "Antena SUR ",
+    "categoria":"nacional",
+    "imagen":"https://i.imgur.com/4aHrD2l.jpeg",
+    "url":"https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
+   },
+ {
+ "id": 9,
+    "nombre": "Cinemax Latin America",
+    "categoria":"nacional",
+    "imagen":"https://i.imgur.com/cZWoJWD.png",
+    "url":"https://streaming.onnethn.com/CINEMAX/playlist.m3u8"
+   },
+ {
+ "id": 10,
+    "nombre": "STAR Channel (Finland)",
+    "categoria":"pelicula",
+    "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "url":"https://live-fi.tvkaista.net/star-channel/live.m3u8"
+   }
+]
